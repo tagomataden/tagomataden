@@ -6,6 +6,9 @@
 
 ⚡ About me: I enjoy singing, songwriting, and art-related things.
 
+### 🎨 My Landscapes
+![My Landscape Photo](https://github.com/tagomataden/tagomataden/blob/main/your-image-filename.jpg?raw=true)
+
 ### 🌐 Socials:
 <!-- Replace the '#' with your actual links -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://#)
