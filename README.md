@@ -1,7 +1,9 @@
 # 🚀 Hello, I am Den!
 
 🔭 I'm 2nd-year BS Information Technology Student at Polytechnic University of the Philippines - Parañaque Campus
+
 🌱 I’m currently learning more about Cloud computing, Cybersecurity, and Backend AI engineering.
+
 ⚡ About me: I enjoy singing, songwriting, and art-related things.
 
 ### 🌐 Socials:
