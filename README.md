@@ -18,12 +18,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/tagomatadenmark/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tagomatadenmark@gmail.com)
 
-### 💻 Tech Stack:
+### 💻 Programming:
 
 ![HTML/CSS/JavaScript](https://img.shields.io/badge/HTML%2FCSS%2FJavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C/C++/C#](https://img.shields.io/badge/C%2FC%2B%2B%2FC%23-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tagomataden&show_icons=true&theme=radical)
+
