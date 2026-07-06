@@ -28,5 +28,5 @@
 ## 📜 Licenses & Certifications:
 
 * [AWS Cloud Practitioner (CLF-C02)](https://www.datacamp.com/completed/statement-of-accomplishment/track/fd5549abded3ae8d5c61583386edb63c374e86d2)
-![AWS Certificate](https://github.com/tagomataden/tagomataden/blob/main/aws-certificate.jpg?raw=true)
+![AWS Certificate](https://github.com/tagomataden/tagomataden/blob/main/aws-certificate.png?raw=true)
 
