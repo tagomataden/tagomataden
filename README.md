@@ -1,10 +1,8 @@
-# 🚀 About Me:
+# 🚀 Hello, I am Den!
 
-* 🔭 I’m currently working on cybersecurity and cloud projects.
-* 🌱 I’m currently learning more about backend AI engineering.
-* 🎓 I’m a 2nd-year BSIT student at PUP Parañaque.
-* 💬 Ask me about cloud engineering and technical support.
-* ⚡ Fun fact: I enjoy singing, songwriting, and landscape painting.
+🔭 I'm 2nd-year BS Information Technology Student at Polytechnic University of the Philippines - Parañaque Campus
+🌱 I’m currently learning more about Cloud computing, Cybersecurity, and Backend AI engineering.
+⚡ About me: I enjoy singing, songwriting, and art-related things.
 
 ### 🌐 Socials:
 <!-- Replace the '#' with your actual links -->
