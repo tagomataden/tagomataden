@@ -1,3 +1,6 @@
+
+![My Landscape Photo](https://github.com/tagomataden/tagomataden/blob/main/your-image-filename.jpg?raw=true)
+
 # 🚀 Hello, I am Den!
 
 🔭 I'm 2nd-year BS Information Technology Student at Polytechnic University of the Philippines - Parañaque Campus
@@ -6,8 +9,6 @@
 
 ⚡ About me: I enjoy singing, songwriting, and art-related things.
 
-### 🎨 My Landscapes
-![My Landscape Photo](https://github.com/tagomataden/tagomataden/blob/main/your-image-filename.jpg?raw=true)
 
 ### 🌐 Socials:
 <!-- Replace the '#' with your actual links -->
