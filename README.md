@@ -1,5 +1,5 @@
 
-![My Landscape Photo](https://github.com/tagomataden/tagomataden/blob/main/your-image-filename.jpg?raw=true)
+(https://github.com/tagomataden/tagomataden/blob/main/your-image-filename.jpg?raw=true)
 
 # 🚀 Hello, I am Den!
 
