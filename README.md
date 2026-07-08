@@ -1,5 +1,5 @@
 
-(https://github.com/tagomataden/tagomataden/blob/main/your-image-filename.jpg?raw=true)
+![My Landscape Photo](https://github.com/tagomataden/tagomataden/blob/main/your-image-filename.jpg?raw=true)
 
 # 🚀 Hello, I am Den!
 
@@ -29,4 +29,3 @@
 
 * [AWS Cloud Practitioner (CLF-C02)](https://www.datacamp.com/completed/statement-of-accomplishment/track/fd5549abded3ae8d5c61583386edb63c374e86d2)
 ![AWS Certificate](https://github.com/tagomataden/tagomataden/blob/main/aws-certificate.png?raw=true)
-
