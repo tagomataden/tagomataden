@@ -34,9 +34,14 @@
 * [AWS Cloud Practitioner (CLF-C02)](https://www.datacamp.com/completed/statement-of-accomplishment/track/fd5549abded3ae8d5c61583386edb63c374e86d2)
 ![AWS Certificate](https://github.com/tagomataden/tagomataden/blob/main/aws-certificate.png?raw=true)
 
-## 📊 GitHub Stats
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=800000&background=0D111700&vCenter=true&width=550&lines=Certified+AWS+Practitioner;Cybersecurity+and+Cloud+Enthusiast;Backend+AI+Engineering-Intern" alt="Typing SVG" />
-  </a>
-</div>
+## 📊 GitHub Activity & Stats
+
+### GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+### Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&sideNums=FFFFFF&sideLabels=FFFFFF&ring=FF9E3B&fire=FF9E3B&currStreakNum=FF9E3B" alt="GitHub Streak Stats" />
+</p>
