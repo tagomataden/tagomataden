@@ -33,3 +33,10 @@
 
 * [AWS Cloud Practitioner (CLF-C02)](https://www.datacamp.com/completed/statement-of-accomplishment/track/fd5549abded3ae8d5c61583386edb63c374e86d2)
 ![AWS Certificate](https://github.com/tagomataden/tagomataden/blob/main/aws-certificate.png?raw=true)
+
+## 📊 GitHub Stats
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=800000&background=0D111700&vCenter=true&width=550&lines=Certified+AWS+Practitioner;Cybersecurity+and+Cloud+Enthusiast;Backend+AI+Engineering-Intern" alt="Typing SVG" />
+  </a>
+</div>
