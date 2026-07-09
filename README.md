@@ -3,6 +3,10 @@
 
 # 🚀 Hello, I am Den!
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&background=0D111700&vCenter=true&width=435&lines=Cybersecurity;Cloud+Engineering;Data+Analytics" alt="Typing SVG" />
+</a>
+
 🔭 I'm 2nd-year BS Information Technology Student at Polytechnic University of the Philippines - Parañaque Campus
 
 🌱 I’m currently learning more about Cloud computing, Cybersecurity, and Backend AI engineering.
