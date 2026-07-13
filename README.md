@@ -38,10 +38,10 @@
 
 ### GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tagomataden&bg_color=0D1117&color=800000&line=800000&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denmarkntagomata&bg_color=0D1117&color=800000&line=800000&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ### Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tagomataden&theme=tokyonight&hide_border=true&background=0D1117&sideNums=FFFFFF&sideLabels=FFFFFF&ring=800000&fire=FF9E3B&currStreakNum=FF9E3B" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&sideNums=FFFFFF&sideLabels=FFFFFF&ring=800000&fire=FF9E3B&currStreakNum=FF9E3B" alt="GitHub Streak Stats" />
 </p>
