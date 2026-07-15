@@ -1,5 +1,14 @@
+<div align="center">
 
-![My Landscape Photo](https://github.com/tagomataden/tagomataden/blob/main/your-image-filename.jpg?raw=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/main/light.svg">
+  <img alt="Denmark Tagomata — Cloud & Cybersecurity & Backend AI" src="https://raw.githubusercontent.com/denmarkntagomata/denmarkntagomata/main/dark.svg">
+</picture>
+
+</div>
+
+---
 
 # 🚀 Hello, I am Den!!!
 
