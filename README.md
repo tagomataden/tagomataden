@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning more about Cloud computing, Cybersecurity, and Backend AI engineering.
 
-⚡ About me: I enjoy singing, songwriting, and art-related things.
+🤍 Random Facts About me: I do love to sing, songwrite, and do art-related things.
 
 
 ## 🌐 Socials:
