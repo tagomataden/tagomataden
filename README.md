@@ -32,43 +32,6 @@
 
 </p>
 
-```python
-class DenmarkTagomata:
-
-    focus = [
-        "Cloud Computing",
-        "Cybersecurity",
-        "Backend AI Engineering",
-        "Automation",
-        "Full-Stack Projects"
-    ]
-
-    current_stack = [
-        "Python",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Java",
-        "C/C++",
-        "Git",
-        "GitHub",
-        "Docker",
-        "Terraform",
-        "Google Cloud",
-        "AWS"
-    ]
-
-    currently_learning = [
-        "Google Cloud",
-        "AWS",
-        "Terraform",
-        "Backend AI",
-        "Cybersecurity"
-    ]
-
-    motto = "Building secure, scalable, and intelligent cloud solutions."
-```
-
 ---
 
 # 📜 Licenses & Certifications
