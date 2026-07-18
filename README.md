@@ -64,3 +64,19 @@
     alt="GitHub Streak Stats"
   />
 </p>
+
+# 🚀 Currently Building Around
+
+<p align="center">
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-800000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Backend AI](https://img.shields.io/badge/Backend_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+</p>
+
+<p align="center">
+<img src="https://github.com/denmarkntagomata/denmarkntagomata/blob/main/assets/model-lab.png?raw=true" width="100%">
+</p>
