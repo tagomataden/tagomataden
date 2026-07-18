@@ -60,6 +60,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=800000&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400"
-    alt="GitHub Streak Stats"/>
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=denmarkntagomata&theme=tokyonight&hide_border=true&background=0D1117&ring=800000&fire=FF9E3B&currStreakNum=FF9E3B&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=86400&v=3"
+    alt="GitHub Streak Stats"
+  />
 </p>
