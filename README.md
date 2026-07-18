@@ -82,15 +82,18 @@
 
 ---
 
+# 📈 GitHub Overview
 
-# 📊 Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denmarkntagomata&bg_color=0D1117&color=800000&line=800000&point=FFFFFF&area=true&hide_border=true" width="100%">
+</p>
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=denmarkntagomata&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Profile Views](https://komarev.com/ghpvc/?username=denmarkntagomata&style=for-the-badge&color=800000)
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=denmarkntagomata&layout=compact&theme=tokyonight&hide_border=true"/>
+![Followers](https://img.shields.io/github/followers/denmarkntagomata?style=for-the-badge&color=800000)
+
+![Stars](https://img.shields.io/github/stars/denmarkntagomata?affiliations=OWNER&style=for-the-badge&color=800000)
 
 </p>
-
----
