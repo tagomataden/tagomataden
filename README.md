@@ -82,22 +82,15 @@
 
 ---
 
----
 
 # 📊 Stats
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denmarkntagomata&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=denmarkntagomata&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</td>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=denmarkntagomata&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<td width="50%">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=denmarkntagomata&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%">
-
-</td>
-</tr>
-</table>
+---
