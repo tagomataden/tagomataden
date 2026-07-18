@@ -24,12 +24,50 @@
 
 ---
 
-# 💻 Programming
+# 💻 Tech Toolbox
 
-![HTML/CSS/JavaScript](https://img.shields.io/badge/HTML%2FCSS%2FJavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C/C++/C#](https://img.shields.io/badge/C%2FC%2B%2B%2FC%23-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,java,c,cpp,cs,git,github,vscode,linux,docker,terraform,gcp,aws&perline=8"/>
+
+</p>
+
+```python
+class DenmarkTagomata:
+
+    focus = [
+        "Cloud Computing",
+        "Cybersecurity",
+        "Backend AI Engineering",
+        "Automation",
+        "Full-Stack Projects"
+    ]
+
+    current_stack = [
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Java",
+        "C/C++",
+        "Git",
+        "GitHub",
+        "Docker",
+        "Terraform",
+        "Google Cloud",
+        "AWS"
+    ]
+
+    currently_learning = [
+        "Google Cloud",
+        "AWS",
+        "Terraform",
+        "Backend AI",
+        "Cybersecurity"
+    ]
+
+    motto = "Building secure, scalable, and intelligent cloud solutions."
+```
 
 ---
 
@@ -76,17 +114,6 @@
 <img src="https://img.shields.io/badge/CYBERSECURITY-800000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/BACKEND_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/TERRAFORM-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-
-</p>
-
-<p align="center">
-
-| 🌩️ Cloud | 🔐 Security | 🤖 AI |
-|:---------:|:-----------:|:-----:|
-| Google Cloud Platform | Cybersecurity | Backend AI Engineering |
-| AWS Cloud Practitioner | Linux & Networking | Python |
-| Terraform | IAM & Cloud Security | Machine Learning |
-| Docker *(Learning)* | Git & GitHub | APIs & Automation |
 
 </p>
 
