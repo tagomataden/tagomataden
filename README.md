@@ -8,9 +8,9 @@
 
 🔭 I'm a 2nd-year BS Information Technology (BSIT) student at Polytechnic University of the Philippines – Parañaque Campus.
 
-🌱 I'm currently learning more about Cloud Computing, Cybersecurity, and Backend AI Engineering.
+🌱 I'm currently learning more about Data Science, cloud Computing, Cybersecurity, and Backend AI Engineering.
 
-🤍 Random fact: I love singing, songwriting, and creating art.
+🤍 Random fact: I love singing, songwriting, and creating arts.
 
 ---
 
