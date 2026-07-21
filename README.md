@@ -10,7 +10,7 @@
 
 🌱 I'm currently learning more about Data Science, AI/ML, Cloud Computing, Cybersecurity, and Backend AI Engineering.
 
-🤍 Random fact: I love singing, songwriting, and creating arts.
+🤍 Random facts about me: I love singing, songwriting, and creating arts.
 
 ---
 
